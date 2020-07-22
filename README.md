@@ -27,8 +27,8 @@
 - Sultan Ahmed aka Sultan Tech
 ## Links:
 - YouTube Channel: [Sultan Tech](https://youtube.com/UCR9VyChbFnX3u06vnbHl6pg)
-- Facebook: [Sultan Write](https://facebook.com/meersultan787)
-- Blogspot: [Sultan Ahmed]( https://Facebook.com/meersultan)
+- Facebook page: [Sultan Write](https://facebook.com/page/meersultan787)
+- Facebook: [Sultan Ahmed]( https://Facebook.com/meersultan143)
 
 
 
