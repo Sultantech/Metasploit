@@ -15,7 +15,7 @@
 
 > pkg install git
 
-> git clone https://github.com/shadowwalker005/metasploit
+> git clone https://github.com/Sultantech/metasploit
 
 >  cd metasploit && chmod 775 *
 
