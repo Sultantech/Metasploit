@@ -19,7 +19,7 @@
 
 >  cd metasploit && chmod 775 *
 
-> bash shadow.sh
+> bash ahmed.sh
 
 
 
