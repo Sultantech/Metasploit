@@ -28,7 +28,7 @@
 ## Links:
 - YouTube Channel: [Sultan Tech](https://youtube.com/UCR9VyChbFnX3u06vnbHl6pg)
 - Facebook: [Sultan Write](https://facebook.com/meersultan787)
-- Blogspot: [ShadowHub]( https://sultantech.blogspot.com)
+- Blogspot: [Sultan Ahmed]( https://Facebook.com/meersultan)
 
 
 
